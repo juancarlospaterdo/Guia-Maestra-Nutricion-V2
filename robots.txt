@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://juancarlospaterdo.github.io/prueba/sitemap.xml
+Sitemap: https://juancarlospaterdo.github.io/Guia-Maestra-Nutricion-V2/sitemap.xml
